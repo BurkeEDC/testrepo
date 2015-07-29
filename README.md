@@ -3,4 +3,4 @@ testing github connections
 
 Fixed an annoying bug here [#PROD-253 transition:11 resolution:1]
 
-Trying with new URL
+Trying with new URL again... 
