@@ -1,6 +1,6 @@
 # testrepo
 testing github connections
 
-Fixed an annoying bug here [#PROD-253 transition:11 resolution:1]
+Fixed an annoying bug here [#PROD-253 transition:31]
 
 Trying with new URL again... 
